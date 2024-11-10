@@ -23,7 +23,7 @@ Education
 ======
 * Ph.D: Graduate School of Informatics, Kyoto University, Apr 2022 ~ Now (Supervisor: Mehdi Tibouchi, Masayuki Abe)
 * M.S.: Graduate School of Informatics, Kyoto University, Apr 2020 ~ Mar 2022 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
-* B.S.: School of the Gifted Young, University of Science and Technology of China, Sep 2015 ~ Jul 2019
+* B.S.: School of the Gifted Young, University of Science and Technology of China, Sep 2015 ~ Jul 2019 (Supervisor: Honggang Hu)
 
 Academic Service
 ======
