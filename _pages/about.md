@@ -31,25 +31,25 @@ Academic Service
 
 Publications
 ======
-* **Critical Round in Multi-Round Proofs: Compositions and Transformation to Trapdoor Commitments**
+* Critical Round in Multi-Round Proofs: Compositions and Transformation to Trapdoor Commitments
 :   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Mehdi Tibouchi
 :   **Preprint** [[ePrint]](https://eprint.iacr.org/2024/1766)
-* **CDS Composition of Multi-Round Protocols**
+* CDS Composition of Multi-Round Protocols
 :   Masayuki Abe, Andrej Bogdanov, Miyako Ohkubo, Alon Rosen, <u>Zehua Shang</u>, Mehdi Tibouchi
 :   **CRYPTO 2024** [[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_12)
   
 Talks
 ======
-* **Expanding Challenge Space on Composing Generalized Sigma-Protocols**
+* Expanding Challenge Space on Composing Generalized Sigma-Protocols
 :   <u>Zehua Shang</u>, Miyako Ohkubo, Mehdi Tibouchi, Masayuki Abe
 :   **SCIS 2024**
-* **Non-Interactive Proof of Knowledge from Fiat-Shamir and Correlation Intractable Hash**
+* Non-Interactive Proof of Knowledge from Fiat-Shamir and Correlation Intractable Hash
 :   <u>Zehua Shang</u>, Miyako Ohkubo, Mehdi Tibouchi, Masayuki Abe
 :   **SCIS 2023** 
-* **A Study of Non-malleability Definitions on Timed Commitments**
+* A Study of Non-malleability Definitions on Timed Commitments
 :   <u>Zehua Shang</u>, Mehdi Tibouchi, Masayuki Abe
 :   **SCIS 2022** 
-* **Variants of Time-lock Puzzles from Randomized Encodings**
+* Variants of Time-lock Puzzles from Randomized Encodings
 :   <u>Zehua Shang</u>, Mehdi Tibouchi, Masayuki Abe
 :   **SCIS 2021** 
 
