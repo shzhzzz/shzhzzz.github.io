@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year ph.D. student at Kyoto Univeristy, under the supervision of Mehdi Tibouchi and Masayuki Abe. Before coming to Japan, I received my bachelor's degree from University of Science and Technology of China, advised by Prof. Honggang Hu.
+I am currently a third-year ph.D. student at Kyoto Univeristy, under the supervision of Prof. Mehdi Tibouchi and Prof. Masayuki Abe. Before coming to Japan, I received my bachelor's degree from University of Science and Technology of China, advised by Prof. Honggang Hu.
 
 [ORCID](https://orcid.org/0009-0007-9115-0117)    [DBLP](https://dblp.org/pid/383/5268.html)
 
@@ -56,3 +56,5 @@ Talks
 Techniques, SKills and Others
 ======
 * Languages:  Chinese, English, Japanese
+* I enjoy listening to electronic music, especially J-trance. 
+* Favorite Album: [Waves of Euphoria](https://wavforme.com/WAV-026/)
