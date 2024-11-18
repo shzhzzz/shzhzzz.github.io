@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Zero Knowledge of Cryptography"
   location         : "Kyoto, Japan"
-  employer         : 
-  uri              : # URL
-  email            : "shang.zehua.23m@st.kyoto-u.ac.jp" 
+  employer         : Kyoto University
+  uri              : "https://security-kouza.github.io/"
+  email            : "shang.zehua.23m&#64;st.kyoto-u.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
