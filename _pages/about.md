@@ -32,8 +32,8 @@ Academic Service
 Publications
 ======
 * Critical Round in Multi-Round Proofs: Compositions and Transformation to Trapdoor Commitments
-:   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Mehdi Tibouchi
-:   **Preprint** [[ePrint]](https://eprint.iacr.org/2024/1766)
+:   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
+:   **EUROCRYPT 2026**(To appear) [[ePrint]](https://eprint.iacr.org/2024/1766)
 * CDS Composition of Multi-Round Protocols
 :   Masayuki Abe, Andrej Bogdanov, Miyako Ohkubo, Alon Rosen, <u>Zehua Shang</u>, Mehdi Tibouchi
 :   **CRYPTO 2024** [[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_12)
