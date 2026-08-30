@@ -27,19 +27,34 @@ Education
 
 Academic Service
 ======
-* (External) Reviewer: ASIACRYPT 2024, CRYPTO 2024, PKC 2024, CT-RSA 2023, ASIACRYPT 2023, EUROCRYPT 2022, SCN 2022, ISC 2021, Journal of Cryptology, IEICE Transactions.
+* (External) Reviewer: CRYPTO 2026, EUROCRYPT 2026, EUROCRYPT 2025, ASIACRYPT 2024, CRYPTO 2024, PKC 2024, CT-RSA 2023, ASIACRYPT 2023, EUROCRYPT 2022, SCN 2022, ISC 2021, Journal of Cryptology, IEICE Transactions.
+
+PrePrints
+======
+* Critical-Round Special Soundness for Multi-Round Proofs
+:   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
+:   **Preprint** [[ePrint]](http://eprint.iacr.org/2026/1679)
 
 Publications
 ======
+* Practical Adaptor Signature from Online/Offline NIZK
+:   Masayuki Abe, Dung Bui, Kelong Cong, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
+:   **ASIACRYPT 2026** (To Appear)
 * Critical Round in Multi-Round Proofs: Compositions and Transformation to Trapdoor Commitments
 :   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
-:   **EUROCRYPT 2026**(To appear) [[ePrint]](https://eprint.iacr.org/2024/1766)
+:   **EUROCRYPT 2026** [[ePrint]](https://eprint.iacr.org/2024/1766)
 * CDS Composition of Multi-Round Protocols
 :   Masayuki Abe, Andrej Bogdanov, Miyako Ohkubo, Alon Rosen, <u>Zehua Shang</u>, Mehdi Tibouchi
 :   **CRYPTO 2024** [[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_12)
   
 Talks
 ======
+* Revisiting Knowledge Soundness of Cut-and-choose Mechanism in MPC-in-the-head Paradigm
+:   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Mehdi Tibouchi
+:   **SCIS 2026**
+* On Variations of Multi-round Special Soundness and Their Fiat-Shamir Transform
+:   <u>Zehua Shang</u>, Miyako Ohkubo, Mehdi Tibouchi, Masayuki Abe
+:   **SCIS 2025**
 * Expanding Challenge Space on Composing Generalized Sigma-Protocols
 :   <u>Zehua Shang</u>, Miyako Ohkubo, Mehdi Tibouchi, Masayuki Abe
 :   **SCIS 2024**
