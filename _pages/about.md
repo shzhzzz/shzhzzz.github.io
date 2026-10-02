@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year ph.D. student at Kyoto University, under the supervision of Prof. Mehdi Tibouchi and Prof. Masayuki Abe. Before coming to Japan, I received my bachelor's degree from University of Science and Technology of China, advised by Prof. Honggang Hu.
+I am currently a Special Appointed Assistant Professor at Yokohama National University, hosted by Prof. Junji Shikata. I received my Ph.D. from Kyoto University in September 2026, under the supervision of Prof. Mehdi Tibouchi and Prof. Masayuki Abe. Before coming to Japan, I received my bachelor's degree from the University of Science and Technology of China, advised by Prof. Honggang Hu.
 
 [ORCID](https://orcid.org/0009-0007-9115-0117)    [DBLP](https://dblp.org/pid/383/5268.html)
 
@@ -21,7 +21,7 @@ Email Address
 
 Education
 ======
-* Ph.D: Graduate School of Informatics, Kyoto University, Apr 2022 ~ Now (Supervisor: Mehdi Tibouchi, Masayuki Abe)
+* Ph.D.: Graduate School of Informatics, Kyoto University, Apr 2022 ~ Sep 2026 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
 * M.S.: Graduate School of Informatics, Kyoto University, Apr 2020 ~ Mar 2022 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
 * B.S.: School of the Gifted Young, University of Science and Technology of China, Sep 2015 ~ Jul 2019 (Supervisor: Honggang Hu)
 
@@ -37,9 +37,9 @@ PrePrints
 
 Publications
 ======
-* Practical Adaptor Signature from Online/Offline NIZK
+* Practical Adaptor Signatures for NP from Online/Offline NIZK
 :   Masayuki Abe, Dung Bui, Kelong Cong, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
-:   **ASIACRYPT 2026** (To Appear)
+:   **ASIACRYPT 2026** (To Appear) [[ePrint]](https://eprint.iacr.org/2026/2155)
 * Critical Round in Multi-Round Proofs: Compositions and Transformation to Trapdoor Commitments
 :   Masayuki Abe, David Balbás, Dung Bui, Miyako Ohkubo, <u>Zehua Shang</u>, Akira Takahashi, Mehdi Tibouchi
 :   **EUROCRYPT 2026** [[ePrint]](https://eprint.iacr.org/2024/1766)
